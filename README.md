@@ -1,4 +1,4 @@
-# AssetPricing
+# Asset Pricing
 
 Codes from Asset Pricing class project
 
